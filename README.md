@@ -1,4 +1,4 @@
-# EV-Choise-Optimizer :recycle:
+# EV-Choice-Optimizer :recycle:
 
 
 ## Optimizing electric vehicle choices in Taiwan through data analysis. 
